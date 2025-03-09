@@ -1,0 +1,29 @@
+{
+  "name": "capybara-swim",
+  "version": "1.0.0",
+  "description": "A 3D physics-based game featuring a swimming capybara in a pond with realistic water physics, islands, and trees.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "capybara",
+    "water",
+    "physics",
+    "three.js",
+    "rapier",
+    "3d",
+    "game"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@dimforge/rapier3d-compat": "^0.11.2",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.8"
+  }
+}
